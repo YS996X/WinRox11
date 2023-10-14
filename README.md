@@ -2,7 +2,7 @@
 
 # WinRox 11 - Free Windows 11 Cloud-Based Activation System
 
-# Welcome to WinRox 11, a cloud-based activation system designed to help you activate various versions of Windows 11 for free. WinRox 11 automates the activation process and supports multiple editions of Windows 11, including Home, Professional, Education, and Enterprise.
+ Welcome to WinRox 11, a cloud-based activation system designed to help you activate various versions of Windows 11 for free. WinRox 11 automates the activation process and supports multiple editions of Windows 11, including Home, Professional, Education, and Enterprise.
 
 # Usage:
 
